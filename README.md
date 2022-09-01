@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Ninzypoo
+- 👀 I’m interested in coding of some sort
+- 🌱 I’m currently learning Python
+- If you want to contact me email "mercvinny7@gmail.com"
